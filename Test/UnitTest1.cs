@@ -15,7 +15,7 @@ namespace Test
         [TestMethod]
         public void OpenUrl()
         {
-            //Browse Ti FIS URL
+            //Browse Ti FIS Url
             driver.Navigate().GoToUrl("https://tifis.qpharmasit.com");
         }
     }
